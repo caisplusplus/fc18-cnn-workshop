@@ -3,7 +3,7 @@
 
 - [Lesson 7 (Convolutional Neural Networks)](http://caisplusplus.usc.edu/blog/curriculum/lesson7)
 
-Workshop date: 9th April, 2018
+Workshop date: Monday, October 29, 2018
 
 ### Workshop Outline:
 1. CNN theory review on the blackboard
@@ -21,4 +21,4 @@ Workshop date: 9th April, 2018
 ### After Workshop:
 1. Add your completed code to a repository on your own Github account
 2. Create a new "issue" in the repository
-2. Tag @raghav-maheshwari so that we can check you off
+2. Tag @gstenger98 so that we can check you off
